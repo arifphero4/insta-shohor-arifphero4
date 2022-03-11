@@ -244,6 +244,10 @@ img {
 #reported{
   display: none;
 }
+.question-color{
+  color: rgb(240, 138, 44);
+  font-weight: 600;
+}
 
 @media only screen and (max-width: 992px) {
   #posts {
